@@ -1,4 +1,4 @@
-# dam2a-proyecto-intermodular
+# DAM2A - Proyecto Intermodular
 Integrantes del grupo:
 - Alonso Soto
 - Gabriel Florin
