@@ -1,5 +1,5 @@
 # dam2a-proyecto-intermodular
-Integrantes:
+Integrantes del grupo:
 - Alonso Soto Apse
 - Gabriel Florin Silviestru
 - Ruben David Jaramillo
